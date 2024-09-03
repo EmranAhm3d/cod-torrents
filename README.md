@@ -16,4 +16,4 @@ This repository contains torrent files for CoD games, their DLCs, and files spec
 **t5_all_dlcs.torrent** - Black Ops (2010) DLCs\
 **t6_dlcs.torrent** - Black Ops II (2012) DLCs\
 **t7_dlc.torrent** - Black Ops III (2015) DLCs\
-**t7_full_game.torrent** - Black Ops III (2015) Campaign + Free Run + Zombies + Multiplayer + DLCs\
+**t7_full_game.torrent** - Black Ops III (2015) Campaign + Free Run + Zombies + Multiplayer + DLCs
