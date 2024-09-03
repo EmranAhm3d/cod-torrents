@@ -3,7 +3,7 @@ This repository contains torrent files for CoD games, their DLCs, and files spec
 # Legend
 **h1_full_game.torrent** - Modern Warfare Remastered (2017) Campaign + Multiplayer + DLCs\
 \
-**h2m_full_game.torrent** - Modern Warfare Remastered (2017) Multiplayer + DLCs + Modern Warfare 2 Remastered Multiplayer\
+**h2m_full_game.torrent** - Modern Warfare Remastered (2017) Multiplayer + Modern Warfare 2 Remastered Multiplayer\
 \
 **iw4x_dlcs.torrent** - Modern Warfare 2 (2009) DLCs\
 \
